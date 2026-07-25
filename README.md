@@ -1,4 +1,4 @@
-# STR Propt Framework 🚀
+# STR Prompt Framework 🚀
 
 📁 **The Ultimate Production-Ready LLM Prompt Directory Structured by Stage, Task, and Rules.**
 💼 **جامع‌ترین مرجع دوزبانه الگوهای پرامپت‌نویسی ساختاریافته برای هوش مصنوعی بر اساس متدولوژی نقش، وظیفه و قوانین.**
